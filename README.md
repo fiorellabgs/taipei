@@ -138,7 +138,7 @@ Download the [App](https://taipei.youbike.com.tw/download/app) so you can access
 
 ## Sight Seeing
 
-All informations are available on the [Guide to Taipei](https://guidetotaipei.com/). Hereafter, what some suggestions:
+All informations are available on the [Guide to Taipei](https://guidetotaipei.com/). Hereafter, some suggestions:
 
 - [Taipei 101](http://www.taipei-101.com.tw/en/index.aspx)
 
